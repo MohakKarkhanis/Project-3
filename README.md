@@ -24,7 +24,7 @@ The `Steps_Followed.docx` file provides a highly detailed, step-by-step walkthro
 6. Model Training: Compiled using the 'Adam' optimizer and 'binary_crossentropy' loss. The model was trained over 50 epochs with a batch size of 32.
 
 **Results**
-The 1D CNN model achieved an outstanding Test Accuracy of 0.9840 with a Test Loss of 0.0809. The trained weights and architecture were saved as an `.h5` file for immediate, real-time deployment without the need for retraining.
+The 1D CNN model achieved an outstanding Test Accuracy of **0.9840** with a Test Loss of **0.0809**. The trained weights and architecture were saved as an `.h5` file for immediate, real-time deployment without the need for retraining.
 
 **Steps to use the Predictor**
 The model can be easily deployed on any novel `.fasta` sequence using the Terminal.
