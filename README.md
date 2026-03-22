@@ -30,5 +30,5 @@ The 1D CNN model achieved an outstanding Test Accuracy of 0.9840 with a Test Los
 The model can be easily deployed on any novel `.fasta` sequence using the Terminal.
 1. Download the [Model](Model) folder. Ensure that [Predictor for 3rd Project.py](https://github.com/MohakKarkhanis/Project-3/blob/main/Model/Predictor%20for%203rd%20Project.py) python script, the `.h5` model file, and the fasta sequence which needs to be predicted are in the same directory. It is recommended to change the `MODEL_FILE_PATH` variable in the `.py` file to the path where the `.h5` model has been saved.
 2. Open Terminal within the directory to set the location and run the following command:
-    _python Predictor for 3rd Project.py your fasta sequence_
+    `_python Predictor for 3rd Project.py your fasta sequence_`
 
